@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 20px;
+  
+color: #343562;
+}
+
+
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
