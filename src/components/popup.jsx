@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import './Popup.css';
+import './popup.css';
 import { Typewriter } from 'react-simple-typewriter';
 
 const Popup = ({ cards, onClose }) => {
