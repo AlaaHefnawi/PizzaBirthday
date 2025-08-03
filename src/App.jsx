@@ -62,7 +62,7 @@ function App() {
     audioRef.current = new Audio('/Happy-birthday-bitch.mp3');
   }, []);
 
-const target = new Date(Date.UTC(2025, 7, 3, 5, 0, 0));
+const target = new Date(Date.UTC(2025, 7, 3, 4, 0, 0));
 
   return (
     <>
